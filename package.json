@@ -1,0 +1,17 @@
+{
+  "name": "sass-made-easy",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "sass": "^1.54.0"
+  }
+}
